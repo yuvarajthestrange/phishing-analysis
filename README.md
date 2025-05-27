@@ -96,9 +96,17 @@ Contributions welcome! Please:
 📄 License
 Licensed under the MIT License. See LICENSE for details.
 
-📬 Contact & Connect
-Yuvaraj Chandran
-🔗 LinkedIn Profile
-🐙 GitHub Profile
-📧 yuvarajchandran93@gmail.com
+## 📬 Contact & Connect
+
+**Yuvaraj Chandran**
+ 📧 yuvarajchandran93@gmail.com
+
+---
+
+## 👤 Author
+
+**Yuvaraj C**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yuvaraj-c-6a756728a)
+
+---
 
